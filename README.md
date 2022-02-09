@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Googledrive_logo.svg" height=100>
     <br />
-    Cloud Storage Backend
+    Google Drive Clone Backend
     <br />
 </h1>
 
@@ -25,7 +25,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/sumedhdixit/google-drive-clone-frontend.git
 
 # Go into the repository
-$ cd cloud-storage-backend
+$ cd google-drive-clone-backend
 
 # Install dependencies
 $ npm install
