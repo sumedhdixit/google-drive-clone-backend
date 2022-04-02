@@ -16,6 +16,16 @@
 
 <br />
 
+## Screenshots of Steps 👇🏽
+
+<img src="https://drive.google.com/uc?id=1kwllBxalUqclJtHmqQ37Q4v2xxOo77V1">
+<img src="https://drive.google.com/uc?id=17AMY-Ov0RcMt6KqDZ8aG--60HVLQSIk7">
+<img src="https://drive.google.com/uc?id=1HiFE48MSXT8pZ2Ato4VSMBD6bwP-VH5C">
+<img src="https://drive.google.com/uc?id=1-3GquLQJuc5Z2wIonNnncu5LB0R5rk0F">
+<img src="https://drive.google.com/uc?id=11190nfs0atK0oKMEPpcNUn4iOjR6N4B9">
+<img src="https://drive.google.com/uc?id=1tsg2h-SSGq8tCC0zctoNbWQmOmmNL7UD">
+<img src="https://drive.google.com/uc?id=16SNqKQN0kamVrAd1cFOfD9g708fTVW8t">
+
 ## 📌How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
